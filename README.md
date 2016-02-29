@@ -27,3 +27,4 @@ Technical Details
 * XDebug
 * PHPUnit 4.8
 * Composer
+* Drush
