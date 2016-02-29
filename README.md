@@ -1,5 +1,5 @@
 # SimpleDrupalDevEnvironment
-A simple Drupal environment build with Vagrant, based on [https://github.com/mattandersen/vagrant-lamp] project. 
+A simple Drupal environment build with Vagrant, based on https://github.com/mattandersen/vagrant-lamp project. 
 
 In this fork, we added options to import SSH keys and configure GIT credentials. 
 
